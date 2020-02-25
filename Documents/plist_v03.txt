@@ -48,7 +48,7 @@ Buzzer             		40.0    1
       	ESP-WROOM-32 MODULE     210.0   1
       	LM1117MP-3.3             30.0   1
       	ACS712TELC-20A          140.0   1
-      	WF18FTLAADNN0       	450.0   1
+      	WF18FTLAADNN0       	450.0   1	***
       	ATSAMD20E18A-A          120.0   1
       	MC34063AD               15.0    1
 
@@ -78,6 +78,8 @@ Buzzer             		40.0    1
 
 Резонатор CRYSTALTHIN32K       	12.0  	1 
 			=====================
-Без трансформаторов, радиаторов, шунтов
+Без трансформаторов, радиаторов, шунтов и контроллера дисплея
 				1950р
 	
+*** Это только матрица, дисплеи в сборе тут:
+https://www.komponenta.ru/displays/tft/?utm_source=yandex_rsya&utm_medium=cpc&utm_campaign=displey_tft_rsya&utm_term=tft%20%D0%B4%D0%B8%D1%81%D0%BF%D0%BB%D0%B5%D0%B9%20spi&utm_content=none-0
