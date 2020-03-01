@@ -72,3 +72,4 @@
 
 
 ***
+Схемы v15:  https://github.com/Molegvas/MORO-D20E/blob/master/Documents/Schemes
