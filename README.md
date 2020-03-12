@@ -73,6 +73,13 @@
 Схемы v15:  https://github.com/Molegvas/MORO-D20E/blob/master/Documents/Schemes
 
 ### Предложение по протоколу обмена
+Испытывался использованный ранее пакетный протокол обмена для VSPI. В качестве тестовой задачи передача информации о приборе из 15 байт:
+
   ![](https://github.com/Molegvas/MORO-D20E/blob/master/Resources/MOSI.png)
 
+Передача на частоте 4МГц занимает около 2-х миллисекунд, что вполне удовлетворительно. Специальные меры для подготовки пакета не применялись. 
+
   ![](https://github.com/Molegvas/MORO-D20E/blob/master/Resources/Log.png)
+
+Код для ведущего- в проекте SPI_Multiple_Buses (пока только на передачу).
+Для ведомого - в разработке.
