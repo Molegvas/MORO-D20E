@@ -73,4 +73,6 @@
 Схемы v15:  https://github.com/Molegvas/MORO-D20E/blob/master/Documents/Schemes
 
 ### Предложение по протоколу обмена
-...
+  ![](https://github.com/Molegvas/MORO-D20E/blob/master/Resources/MOSI.png)
+
+  ![](https://github.com/Molegvas/MORO-D20E/blob/master/Resources/Log.png)
